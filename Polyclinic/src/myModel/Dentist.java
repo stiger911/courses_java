@@ -27,7 +27,7 @@ private int dentist_Room;
 
 	@Override
 	public String toString() {
-		return "Surgeon [dentist_Room=" + dentist_Room + ", specs=" + Arrays.toString(getSpecs())
+		return "Dantist [dentist_Room=" + dentist_Room + ", specs=" + Arrays.toString(getSpecs())
 				+ ", getDentist_Room()=" + getDentist_Room() + ", getLastName()=" + getLastName()
 				+ ", getFirstName()=" + getFirstName() + "]";
 	}
